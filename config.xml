@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="com.hhtv.idraw" version="0.0.1" xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"        
+        versionCode="10">
+<name>idraw</name>
+
+    <description>
+        Sample HTML5 drawing canvas
+    </description>
+
+    <author href="http://www.hhtv.vn" email="admin@hhtv.vn">
+        DOAN NGOC HA
+    </author>
+</widget>
